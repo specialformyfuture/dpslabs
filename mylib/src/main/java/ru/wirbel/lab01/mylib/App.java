@@ -20,12 +20,6 @@ public class App
 	
 	
 	public static void main(String[] args) {
-		try{
-				System.out.println("this main started");
-			
-			} catch (Exception ex) {
-				ex.printStackTrace();
-		}
 	}
 	
 	public static String stringReturner() throws FileNotFoundException, IOException{
